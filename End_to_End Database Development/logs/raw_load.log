@@ -1,0 +1,69 @@
+2026-09-08 10:02:55,210 - ERROR - Database connection failed: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-09-08 10:03:50,331 - INFO - Database connection successful: testdb
+2026-09-08 10:03:50,333 - INFO - Raw data loading started
+2026-09-08 10:03:50,506 - INFO - Customers CSV loaded: 99441 rows
+2026-09-08 10:03:50,631 - INFO - Products CSV loaded: 32951 rows
+2026-09-08 10:03:51,098 - INFO - Orders CSV loaded: 99441 rows
+2026-09-08 10:03:51,412 - INFO - Order Items CSV loaded: 112650 rows
+2026-09-08 10:03:55,905 - INFO - Customers inserted: 99441 rows
+2026-09-08 10:03:58,353 - INFO - Products inserted: 32951 rows
+2026-09-08 10:04:03,657 - INFO - Orders inserted: 99441 rows
+2026-09-08 10:04:08,375 - INFO - Order Items inserted: 112650 rows
+2026-09-08 10:04:08,375 - INFO - Raw data loaded into PostgreSQL successfully
+2026-09-08 10:04:38,337 - INFO - Database connection successful: testdb
+2026-09-08 10:04:38,338 - INFO - Raw data loading started
+2026-09-08 10:04:38,490 - INFO - Customers CSV loaded: 99441 rows
+2026-09-08 10:04:38,556 - INFO - Products CSV loaded: 32951 rows
+2026-09-08 10:04:38,947 - INFO - Orders CSV loaded: 99441 rows
+2026-09-08 10:04:39,189 - INFO - Order Items CSV loaded: 112650 rows
+2026-09-08 10:04:43,452 - INFO - Customers inserted: 99441 rows
+2026-09-08 10:04:45,565 - INFO - Products inserted: 32951 rows
+2026-09-08 10:04:52,667 - INFO - Orders inserted: 99441 rows
+2026-09-08 10:04:58,292 - INFO - Order Items inserted: 112650 rows
+2026-09-08 10:04:58,292 - INFO - Raw data loaded into PostgreSQL successfully
+2026-09-08 10:13:04,857 - INFO - Database connection successful: testdb
+2026-09-08 10:13:04,858 - INFO - Raw data loading started
+2026-09-08 10:13:05,009 - INFO - Customers CSV loaded: 99441 rows
+2026-09-08 10:13:05,064 - INFO - Products CSV loaded: 32951 rows
+2026-09-08 10:13:05,462 - INFO - Orders CSV loaded: 99441 rows
+2026-09-08 10:13:05,740 - INFO - Order Items CSV loaded: 112650 rows
+2026-09-08 10:13:09,687 - INFO - Customers inserted: 99441 rows
+2026-09-08 10:13:11,509 - INFO - Products inserted: 32951 rows
+2026-09-08 10:13:15,806 - INFO - Orders inserted: 99441 rows
+2026-09-08 10:13:20,790 - INFO - Order Items inserted: 112650 rows
+2026-09-08 10:13:20,790 - INFO - Raw data loaded into PostgreSQL successfully
+2026-09-17 10:33:56,186 - INFO - Database connection successful: testdb
+2026-09-17 10:33:56,188 - INFO - Raw data loading started
+2026-09-17 10:33:56,382 - INFO - Customers CSV loaded: 99441 rows
+2026-09-17 10:33:56,449 - INFO - Products CSV loaded: 32951 rows
+2026-09-17 10:33:56,845 - INFO - Orders CSV loaded: 99441 rows
+2026-09-17 10:33:57,167 - INFO - Order Items CSV loaded: 112650 rows
+2026-09-17 10:34:01,015 - INFO - Customers inserted: 99441 rows
+2026-09-17 10:34:03,035 - INFO - Products inserted: 32951 rows
+2026-09-17 10:34:10,700 - INFO - Orders inserted: 99441 rows
+2026-09-17 10:34:16,302 - INFO - Order Items inserted: 112650 rows
+2026-09-17 10:34:16,303 - INFO - Raw data loaded into PostgreSQL successfully
+2026-09-17 10:38:44,302 - INFO - Database connection successful: testdb
+2026-09-17 10:38:44,303 - INFO - Raw data loading started
+2026-09-17 10:38:44,511 - INFO - Customers CSV loaded: 99441 rows
+2026-09-17 10:38:44,574 - INFO - Products CSV loaded: 32951 rows
+2026-09-17 10:38:45,019 - INFO - Orders CSV loaded: 99441 rows
+2026-09-17 10:38:45,372 - INFO - Order Items CSV loaded: 112650 rows
+2026-09-17 10:38:49,366 - INFO - Customers inserted: 99441 rows
+2026-09-17 10:38:51,462 - INFO - Products inserted: 32951 rows
+2026-09-17 10:38:56,305 - INFO - Orders inserted: 99441 rows
+2026-09-17 10:39:01,458 - INFO - Order Items inserted: 112650 rows
+2026-09-17 10:39:01,458 - INFO - Raw data loaded into PostgreSQL successfully
+2026-09-17 10:41:32,804 - INFO - Database connection successful: testdb
+2026-09-17 10:41:32,805 - INFO - Raw data loading started
+2026-09-17 10:41:32,970 - INFO - Customers CSV loaded: 99441 rows
+2026-09-17 10:41:33,029 - INFO - Products CSV loaded: 32951 rows
+2026-09-17 10:41:33,454 - INFO - Orders CSV loaded: 99441 rows
+2026-09-17 10:41:33,755 - INFO - Order Items CSV loaded: 112650 rows
+2026-09-17 10:41:39,265 - INFO - Customers inserted: 99441 rows
+2026-09-17 10:41:41,455 - INFO - Products inserted: 32951 rows
+2026-09-17 10:41:45,603 - INFO - Orders inserted: 99441 rows
+2026-09-17 10:41:50,723 - INFO - Order Items inserted: 112650 rows
+2026-09-17 10:41:50,723 - INFO - Raw data loaded into PostgreSQL successfully
